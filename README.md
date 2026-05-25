@@ -13,6 +13,13 @@
 ![Import Succès](screenshots/2_import_succes.png)
 *Confirmation de l'analyse et de la vectorisation du document par le RAG.*
 
+### 🎓 Plateforme de Cours IA (Génération & Étude)
+![Génération de cours](screenshots/6_cours_ia_creation.png)
+*Saisie d'un sujet d'étude (ex: Grafcet) et choix du niveau pédagogique pour lancer la génération.*
+
+![Cours rédigé par l'IA](screenshots/8_cours_ia_genere.png)
+*Support de cours rédigé de manière structurée et pédagogique (avec formules, code et analogies) avec un tuteur IA intégré, des cartes mémo (flashcards) et un quiz.*
+
 ### 💬 Assistant Pédagogique RAG (Chatbot)
 ![Chatbot RAG](screenshots/3_chatbot_rag.png)
 *Chat interactif avec sources citées pour réviser le cours.*
@@ -22,7 +29,10 @@
 *Formulaire de configuration du niveau de difficulté et du type de questions.*
 
 ![Examen Généré](screenshots/5_examen_genere.png)
-*Examen mixte généré automatiquement par l'IA.*
+*Examen mixte (QCM) généré automatiquement par l'IA.*
+
+![Questions d'examen](screenshots/7_examen_questions.png)
+*Questions ouvertes et Vrai/Faux générées pour tester ses connaissances.*
 
 ---
 
