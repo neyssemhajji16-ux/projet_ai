@@ -6,12 +6,23 @@
 
 ## 📸 Aperçu
 
-| Page | Description |
-|------|-------------|
-| 📄 Import PDF | Glissez-déposez votre cours, l'IA l'analyse automatiquement |
-| 🎓 Plateforme Cours | Générez un cours complet par IA, étudiez-le avec des flashcards |
-| 💬 Assistant IA | Posez vos questions en langage naturel sur le document |
-| 📝 Générateur | Créez des QCM, questions ouvertes et Vrai/Faux personnalisés |
+### 📄 Import de Document & Analyse
+![Import Vide](screenshots/1_import_vide.png)
+*Interface d'accueil pour l'import de documents PDF.*
+
+![Import Succès](screenshots/2_import_succes.png)
+*Confirmation de l'analyse et de la vectorisation du document par le RAG.*
+
+### 💬 Assistant Pédagogique RAG (Chatbot)
+![Chatbot RAG](screenshots/3_chatbot_rag.png)
+*Chat interactif avec sources citées pour réviser le cours.*
+
+### 📝 Générateur d'Examens & Quiz
+![Configuration Examen](screenshots/4_config_examen.png)
+*Formulaire de configuration du niveau de difficulté et du type de questions.*
+
+![Examen Généré](screenshots/5_examen_genere.png)
+*Examen mixte généré automatiquement par l'IA.*
 
 ---
 
@@ -148,10 +159,12 @@ edurag-projet/
 
 ## 👥 Étudiants
 
+**Classe :** 2TA DAD
+
 | Nom | Prénom |
 |-----|--------|
-| ... | ... |
-| ... | ... |
+| HAJJI | Nayssem |
+| KHEMISSI | Eya |
 
 > **Module :** IA Générative  
 > **Date :** Mai 2026  
@@ -161,4 +174,4 @@ edurag-projet/
 
 ## 📄 Licence
 
-Projet académique — Tous droits réservés.
+Projet académique .
